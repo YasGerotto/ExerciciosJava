@@ -6,7 +6,7 @@ public class Exercicio2 {
 
 	public static void main(String[] args) {
 		
-		Scanner leia = new Scanner(system.in);
+		Scanner leia = new Scanner(System.in);
 		int n1, n2, n3;
 		
 		System.out.println("Digite o primeiro número: ");
@@ -20,7 +20,7 @@ public class Exercicio2 {
 		
 		if (n1 < n2) {
 			if(n2 < n3) {
-				System.out.println("A ordem crescente: " + n1 "" +n2 "" + n3 + ".");
+				System.out.println("A ordem crescente: " +  n1 + ""   +n2 + ""   + n3 + ".");
 				
 			}
 				
